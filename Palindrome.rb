@@ -1,7 +1,10 @@
 
-def palindrome?(word)
+def palindrome?(words)
   word = word.delete(' ')
-  word == word.reverse
+  word = = word.reverse
 end
 
 palindrome?("anita lava la tina")
+
+nueva linea
+nueva linea2
